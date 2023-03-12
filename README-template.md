@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [My Soludtion](https://github.com/marudever/qr-code-component)
+- [Live Site URL](https://marudever.my.id/qr-code-component/)
 
 ## My process
 
@@ -72,4 +72,5 @@ Summary, sometimes when I write the code, I always think a better solution with 
 ## Author
 
 - Frontend Mentor - [@marudever](https://www.frontendmentor.io/profile/marudever)
+- GitHub - [@marudever](https://github.com/marudever)
 - Twitter - [@marudever](https://www.twitter.com/marudever)
