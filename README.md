@@ -12,17 +12,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
 ### Links
 
 - [My Soludtion](https://github.com/marudever/qr-code-component)
 - [Live Site URL](https://marudever.my.id/qr-code-component/)
 
 ## My process
-
 ### Built with
 
 - HTML
